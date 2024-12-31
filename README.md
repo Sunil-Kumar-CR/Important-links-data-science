@@ -1,7 +1,7 @@
 # Important-links-data-science
 This repository will have all the import links or reference material for Data science
 
-Text summarisation:
+**Text summarisation:**
 
 https://github.com/AustinKrause/nyt-article-summarizer/tree/master/Notebooks
 
@@ -10,3 +10,11 @@ https://github.com/ActuariesInstitute/analytics-snippet-natural-language-classif
 https://github.com/ActuariesInstitute/Kaggle_Competition/blob/main/Kaggle_ActuarialLoss_Notebook_yl.ipynb
 
 https://github.com/Anello92/machine-learning-template/blob/main/machine_learning_template.ipynb
+
+**Data bricks manage model life cycle**
+
+https://docs.databricks.com/en/machine-learning/manage-model-lifecycle/index.html
+
+**ML flow model registry example**
+
+https://docs.databricks.com/en/_extras/notebooks/source/mlflow/mlflow-model-registry-example.html
